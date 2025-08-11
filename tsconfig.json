@@ -8,6 +8,12 @@
     },
     {
       "path": "./packages/nest-example"
+    },
+    {
+      "path": "./packages/express-example-e2e"
+    },
+    {
+      "path": "./packages/express-example"
     }
   ]
 }
