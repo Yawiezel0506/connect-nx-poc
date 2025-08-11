@@ -2,5 +2,12 @@
   "extends": "./tsconfig.base.json",
   "compileOnSave": false,
   "files": [],
-  "references": []
+  "references": [
+    {
+      "path": "./packages/nest-example-e2e"
+    },
+    {
+      "path": "./packages/nest-example"
+    }
+  ]
 }
